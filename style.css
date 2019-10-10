@@ -1,0 +1,171 @@
+body {
+    background-image: url(ellipse%20group.png);
+     background-repeat: no-repeat;
+  background-size: 747px 754px;
+    margin: 0;
+    line-height: 1;
+}
+
+
+#logo {
+  height: 50px;
+  vertical-align: middle;
+
+}
+
+.navbar {
+    position: absolute;
+       width: 100%;
+    margin: 0;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li{
+    float: right
+           }
+
+li a {
+  cursor: pointer;
+    padding: 10px;
+  margin-left:-5px;
+    display: block;
+    color: #BF5300;
+       padding: 14px 16px;
+    text-decoration: none;
+    font-family: Montserrat,  tahoma, Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+li a:hover {
+    background-color: #FFE2CB;
+    border-radius: 10px;
+}
+
+ul {
+  display: inline;
+  list-style: none;
+}
+
+li {
+  display: inline;
+  cursor: pointer;
+    padding: 10px;
+  margin-left:-5px;
+}
+
+h2 {
+    position: absolute;
+width: 300px;
+height: 47px;
+left: 980px;
+top: 90px;
+
+font-family: Tahoma, Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #BF5300;
+}
+
+h3{
+position: absolute;
+width: 409px;
+height: 30px;
+left: 920px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #0000A2;
+}
+form{
+
+position: absolute;
+width: 300px;
+height: 40px;
+left:930px;
+top: 200px;
+background: #FFFFFF;
+}
+
+input {
+    width: 400px;
+height: 40px;
+    margin-top: 10px;
+    background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+textarea {
+    margin-top: 10px;
+    width: 399px;
+    border-radius: 5px;
+    background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    
+}
+
+form .submit{
+    width: 80px;
+    height: 30px;
+    background: #BF5300;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 20px;
+    left: 1127px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+form .submit:hover {
+   background-color: #F57513;;
+    cursor: pointer;
+}
+
+.teachericon {
+    position: absolute;
+width: 564px;
+height: 475px;
+left: 50px;
+top: 100px;
+
+}
+
+.codeicon {
+position: absolute;
+width: 200px;
+height:50px;
+left: 385px;
+top: 155px;
+
+}
+
+
